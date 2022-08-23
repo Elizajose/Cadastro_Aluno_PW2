@@ -14,7 +14,7 @@ public class Alunos {
 	@Column  
 	private int alunoid;  
 	@Column  
-	private String alunoname;  
+	private String alunonome;  
 	@Column  
 	private String email;  
 	@Column  
@@ -26,10 +26,10 @@ public class Alunos {
 		this.alunoid = alunoid;
 	}
 	public String getAlunoname() {
-		return alunoname;
+		return alunonome;
 	}
 	public void setAlunoname(String alunoname) {
-		this.alunoname = alunoname;
+		this.alunonome = alunoname;
 	}
 	public String getEmail() {
 		return email;
