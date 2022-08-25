@@ -1,4 +1,5 @@
 package br.edu.ifsertaope.model;
+
 import javax.persistence.Column;  
 import javax.persistence.Entity;  
 import javax.persistence.Id;  
@@ -25,11 +26,11 @@ public class Alunos {
 	public void setAlunoid(int alunoid) {
 		this.alunoid = alunoid;
 	}
-	public String getAlunoname() {
+	public String getAlunonome() {
 		return alunonome;
 	}
-	public void setAlunoname(String alunoname) {
-		this.alunonome = alunoname;
+	public void setAlunonome(String alunonome) {
+		this.alunonome = alunonome;
 	}
 	public String getEmail() {
 		return email;

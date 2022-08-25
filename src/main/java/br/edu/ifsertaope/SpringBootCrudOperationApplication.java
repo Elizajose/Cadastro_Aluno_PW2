@@ -1,4 +1,4 @@
-package br.edu.ifsertaope.SpringBoot_CRUD_Operation;
+package br.edu.ifsertaope;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
