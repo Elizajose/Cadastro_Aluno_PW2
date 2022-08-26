@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import br.edu.ifsertaope.model.Alunos;
 import br.edu.ifsertaope.service.AlunosService;
 @RestController 
+
 public class AlunoController {
 	
 	@Autowired  

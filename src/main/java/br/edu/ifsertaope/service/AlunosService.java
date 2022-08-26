@@ -9,7 +9,7 @@ import br.edu.ifsertaope.model.Alunos;
 import br.edu.ifsertaope.repository.AlunoRepository;
 
  
-//Definindo como será nossa regra de negocio. 
+
 @Service  
 
 public class AlunosService {
